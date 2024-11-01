@@ -22,8 +22,8 @@ title: Tuto Rat
 email: solutionscolairequebec@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Notre mission: Répondre à vos questions.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "tuto.rat.github.io" # the subpath of your site, e.g. /blog
+url: "https://youssefe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 youtube_username: "@tuto.rat.gatineau"
 instagram_username: "tuto.rat.gatineau"
 facebook_username: "61558331678098"
